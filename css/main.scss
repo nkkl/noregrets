@@ -23,15 +23,12 @@ $spacing-unit:     30px;
 $text-color:			#111;
 $theme-color-base:		#333;
 $theme-color-accent:	#2a7ae2;
-$theme-color-dark:		blue;
-$theme-color-bright:	#fff;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$theme-color-dark:		#1c67ca;
+$theme-color-bright:	#4b8fe7;
+$theme-color-white:		#fff;
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    960px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
@@ -66,6 +63,15 @@ p {
 	color: $text-color;
 }
 
+a {
+	color: $theme-color-accent;
+
+	&:hover, &:active {
+		color: $theme-color-dark;
+		text-decoration: underline;
+	}
+}
+
 #header {
 	width: 100%;
 	overflow: hidden;
@@ -75,7 +81,7 @@ p {
 	text-align: center;
 
 	h1 {
-		color: $theme-color-bright;
+		color: $theme-color-white;
 		margin: 0.5em 1em;
 		font-size: $font-size-large;
 	}
@@ -83,7 +89,7 @@ p {
 
 #categories {
 	margin: 1em auto;
-	max-width: 960px;
+	max-width: $content-width;
 
 	@media (max-width: $on-palm) {
 		text-align: center;
@@ -101,7 +107,7 @@ p {
 		background-color: $theme-color-accent;
 
 		text-decoration: none;
-		color: $theme-color-bright;
+		color: $theme-color-white;
 
 		&:hover {
 			background-color: $theme-color-dark;
@@ -122,11 +128,15 @@ p {
 	overflow: hidden;
 	text-align: center;
 
-	color: $theme-color-bright;
+	color: $theme-color-white;
 
 	a {
 		display: inline-block;
 
 		font-size: $font-size-small;
+
+		&:hover, &:active {
+			color: $theme-color-bright;
+		}
 	}
 }
