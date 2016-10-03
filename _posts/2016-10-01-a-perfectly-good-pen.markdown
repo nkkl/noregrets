@@ -8,4 +8,4 @@ Do you want a pen that writes reliably? Then you should buy a pack of [uni-ball 
 
 They don't clog or jam. They have a totally reasonable amount of ink. You can even get them in colors.
 
-![a picture of the Jetstream]({{ site.url }}/assets/pen.jpg)
+![a picture of the Jetstream]({{ site.url | prepend: site.github.url }}/assets/pen.jpg)
