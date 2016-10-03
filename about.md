@@ -1,15 +1,11 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Sometimes you just want to buy a thing that is good enough. Not the best thing. Not the cheapest thing. Just a thing that works, so that you can buy it and move on with your life.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+This is a collection of those things.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Want to add things to the collection? Go to our [github repository](https://github.com/nkkl/noregrets) and follow the instructions there.

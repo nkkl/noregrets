@@ -85,6 +85,19 @@ a {
 		margin: 0.5em 1em;
 		font-size: $font-size-large;
 	}
+
+	a {
+		text-decoration: none;
+	}
+}
+
+#content {
+	max-width: $content-width;
+	margin: auto;
+
+	p {
+		margin: 1em auto;
+	}
 }
 
 #categories {
