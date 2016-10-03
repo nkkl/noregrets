@@ -1,0 +1,12 @@
+---  
+layout: default
+title:  "VW GTI"
+short: "THE ONE CAR THAT DOES EVERYTHING"
+---
+Buying a car is stressful and lame. It's a lot of financial risk, they're terrible for the planet, and you're probably worried about getting screwed over by the salesperson. You might not be certain the car will suit your needs -- will it be big enough to hold everyone and everything you need it to? Small enough to park? Economical? Fun? Safe? It would feel awful to spend way too much on a car, realize you've tied up a lot of your worth in a swiftly depreciating asset that makes people think you're trying too hard to impress -- or to spend to little, and be a little disappointed each time you sit in the driver's seat.
+
+There's a cure for this (OK, not for the salesperson or for the environment), and it's the Volkswagen GTI: one car you'll never regret. It does everything. With most trim levels costing under the US average new car price, it's affordable. Its interior is comfortable and well laid-out, like a baby Audi. It can fit four adults comfortably for a full day of driving, and haul a lot of stuff (kegs? queen bed frame? no problem.) 
+
+It's super fun to drive! Through the corners, it handles beautifully and there's plenty of power for quick overtakes. Even the manual option is easy to drive, and it's small enough to park in the city. Everything fits together solidly, and it gets decent mileage. It has the technology you need (CarPlay/Android Auto), and doesn't distract you with stuff you don't. It's pretty simple. This car is the one.
+
+![2016 GTI in Night Blue]({{ site.github.url }}/assets/nightbluegti.jpg).
