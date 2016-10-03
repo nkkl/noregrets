@@ -6,7 +6,7 @@ layout: default
 
   {% for post in site.posts %}
 
-  <a href="{{ post.url }}" class="thing" title="{{ post.short }}">{{ post.title }}</a>
+  <a href="{{ post.url | prepend: site.github.url }}" class="thing" title="{{ post.short }}">{{ post.title }}</a>
 
   {% endfor %}
 
