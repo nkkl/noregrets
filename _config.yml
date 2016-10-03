@@ -17,7 +17,7 @@ title: Things you won't regret buying
 description: > # this means to ignore newlines until "baseurl:"
   A website for finding things that you won't regret buying.
 baseurl: /noregrets # the subpath of your site, e.g. /blog
-url: http://https://nkkl.github.io/noregrets/ # the base hostname & protocol for your site
+url: http://https://nkkl.github.io/ # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
