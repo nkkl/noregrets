@@ -8,7 +8,7 @@ It's pretty simple: all you really need is a Github account. You can do pretty m
 
 1. Fork this repository. If you don't know how to do this, look for the button labeled "fork" at the top of the page and click it. [Github also has some nice instructions on how to do it](https://help.github.com/articles/fork-a-repo/).
 
-2. Go to the _posts folder, and create a new file. It must follow the naming convention `YYYY-MM-DD-ITEM-NAME.markdown`. For example, if you wanted to add a recommendation for an awesome spatula, you would create a file named `2016-10-01-spatula.markdown`.
+2. Go to the _posts folder, and create a new file. It must follow the naming convention `YYYY-MM-DD-ITEM-NAME.markdown`. For example, if you wanted to add a recommendation for an awesome water bottle, you would create a file named `2016-10-01-water-bottle.markdown`.
 
 3. Write your recommendation in the new file you just created. Follow this templating structure (note that the `short` property defines the hover text on the main page, so make it descriptive):  
    ```
