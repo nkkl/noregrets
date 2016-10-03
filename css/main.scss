@@ -4,17 +4,27 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
+@import 'https://fonts.googleapis.com/css?family=Amatica+SC:700|Open+Sans:400,400i,700';
+
+$font-family-display: "Amatica SC", cursive;
+$font-weight-display: 700;
+
+$font-family-base: "Open Sans", Helvetica, Arial, sans-serif;
+$font-size-base:   16pt;
+
+
+$font-weight-base: 400;
+$font-size-small:  $font-size-base * 0.875;
+$font-size-large: $font-size-base * 2;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:			#111;
+$theme-color-base:		#333;
+$theme-color-accent:	#2a7ae2;
+$theme-color-dark:		blue;
+$theme-color-bright:	#fff;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -26,14 +36,97 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-// Minima also includes a mixin for defining media queries.
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
+* {
+	padding: 0;
+	margin: 0;
 
-// Import partials from the `minima` theme.
-@import "minima";
+	font-family: $font-family-base;
+	font-weight: $font-weight-base;
+	font-size: $font-size-base;
+}
+
+body {
+	position: relative;
+	height: 100%;
+	min-height: 100vh;
+}
+
+h1, h2, h3 {
+	font-family: $font-family-display;
+	font-weight: $font-weight-display;
+
+	color: $text-color;
+}
+
+p {
+	font-family: $font-family-base;
+	font-weight: $font-weight-base;
+	font-size: $font-size-base;
+
+	color: $text-color;
+}
+
+#header {
+	width: 100%;
+	overflow: hidden;
+
+	background-color: $theme-color-base;
+
+	text-align: center;
+
+	h1 {
+		color: $theme-color-bright;
+		margin: 0.5em 1em;
+		font-size: $font-size-large;
+	}
+}
+
+#categories {
+	margin: 1em auto;
+	max-width: 960px;
+
+	@media (max-width: $on-palm) {
+		text-align: center;
+	}
+
+	.thing {
+		display: inline-block;
+
+		width: 30%;
+		min-width: 10em;
+		margin: auto 3%;
+		padding: 1em 0;
+
+		text-align: center;
+		background-color: $theme-color-accent;
+
+		text-decoration: none;
+		color: $theme-color-bright;
+
+		&:hover {
+			background-color: $theme-color-dark;
+		}
+
+	}
+}
+
+#footer {
+	background-color: $theme-color-base;
+
+	position: absolute;
+	bottom: 0;
+
+	width: 100%;
+	padding: 10px 0;
+	
+	overflow: hidden;
+	text-align: center;
+
+	color: $theme-color-bright;
+
+	a {
+		display: inline-block;
+
+		font-size: $font-size-small;
+	}
+}
