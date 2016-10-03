@@ -1,4 +1,4 @@
-# You won't regret buying this
+# [You won't regret buying this](https://nkkl.github.io/noregrets/)
 This is an experiment in fighting the paradox of choice. The philosophy is simple: we spend too much time and energy optimizing buying things we don't really care about. This site attempts to break that by presenting viewers with a single option that is good enough. It's not the best thing. It's not the cheapest thing. But it works and you won't regret buying it - so now you can move on with your life.
 
 # I want to suggest something
