@@ -1,0 +1,8 @@
+---  
+ layout: default
+ title:  "Heatpad"
+ short: "Multi-use heating apparatus"
+---
+I bought the [Sunbeam Microplush Heating Pad](http://amzn.to/2dSUkat) because I had lower back pain. It nicely lays flat against between your body and chairs. It is also useful for stomach pain, wrist pain, keeping yourself warm at night, and would probably be very popular with your pets. The size is not too small or large. The microplush is very nice to touch. Shuts off automatically after a set time so you don't have to worry about accidentally burning down your home. Even comes in two colors.
+
+![a picture of green heatpad with controller]({{ site.github.url }}/assets/heatpad.jpg)
