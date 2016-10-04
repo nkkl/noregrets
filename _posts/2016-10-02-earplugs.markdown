@@ -1,0 +1,10 @@
+---
+layout: default
+title: "earplugs"
+short: "a simple way to protect your hearing"
+---
+Hearing damage is no joke. Good earplugs make life so much better for pretty much anyone who goes to loud places, like concert venues. [DUBS](https://www.amazon.com/Acoustic-Filters-Advanced-Earplugs-White/dp/B00NW1IZ5Q) are great earbuds: they're surprisingly comfortable, reusable, and don't distort sound.
+
+They're basically a volume down button for the world.
+
+![DUBS acoustic filters earplugs]({{ site.github.url }}/assets/earplugs.jpg)
