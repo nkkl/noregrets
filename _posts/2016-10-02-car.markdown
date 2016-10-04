@@ -1,7 +1,7 @@
 ---  
 layout: default
-title:  "VW GTI"
-short: "THE ONE CAR THAT DOES EVERYTHING"
+title:  "car"
+short: "the one car that does everything"
 ---
 Buying a car is stressful and lame. It's a lot of financial risk, they're terrible for the planet, and you're probably worried about getting screwed over by the salesperson. You might not be certain the car will suit your needs -- will it be big enough to hold everyone and everything you need it to? Small enough to park? Economical? Fun? Safe? It would feel awful to spend way too much on a car, realize you've tied up a lot of your worth in a swiftly depreciating asset that makes people think you're trying too hard to impress -- or to spend to little, and be a little disappointed each time you sit in the driver's seat.
 
