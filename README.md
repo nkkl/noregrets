@@ -17,7 +17,7 @@ It's pretty simple: all you really need is a Github account. You can do pretty m
    title:  "YOUR TITLE"
    short: "SHORT DESCRIPTION OF THE ITEM"
    ---
-   This is the first paragraph of description.
+   This is the first paragraph of description. [This is a link to Github's website](https://github.com).
    
    This is the second paragraph of description.
    ```  
