@@ -1,0 +1,8 @@
+---
+layout: default
+title:  "earbuds"
+short: "really cheap earbuds that sound good"
+---
+Do you like listening to music and also blocking out some sound from the outside world? Buy the [Philips SHE3590](https://www.amazon.com/dp/B007TRUTZS/ref=pe_385040_30332200_pe_309540_26725410_item). They're cheap, they sound way better than they have any right to, and they're surprisingly comfortable.
+
+![a picture of the SHE3590 earbuds]({{ site.github.url }}/assets/earbuds.jpg)
