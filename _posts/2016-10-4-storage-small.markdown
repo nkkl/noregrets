@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "storage (small)"
-short: "*om nom nom* SNACKS"
+short: "great for storing and shipping snacks"
 ---
 Ziploc "Twist n Loc" containers are quite nice to have around.
 
